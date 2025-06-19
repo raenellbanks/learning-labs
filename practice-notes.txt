@@ -1,0 +1,8 @@
+Raenell's Git Bash Practice Notes
+
+Step 1 - Make a change
+Step 2 - Add the change
+Step 3 - Commit the change
+Step 4 - Push it to GitHub
+
+We run it back until it's second nature 💪🏾
